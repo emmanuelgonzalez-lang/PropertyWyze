@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["F54LXTH553.com.propertywyze.ios"],
+        "components": [
+          {
+            "/": "/plaid-return.html"
+          }
+        ]
+      }
+    ]
+  }
+}
